@@ -1,0 +1,29 @@
+.homeContainer {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: cadetblue;
+    color: darkslateblue;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.homeContainer h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+.homeContainer a {
+    font-weight: 700;
+    color: midnightblue;
+    text-transform: uppercase;
+    margin: 5px 0 5px;
+}
+
+.homeContainer .cadastro {
+    margin-top: 20px;
+}
